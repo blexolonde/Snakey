@@ -9,12 +9,12 @@ This is a Python implementation of the classic Snake Game inspired by the Nokia 
 - Game ends if the snake collides with itself or the boundary.
 
 ## Installation
-1. Clone the repository:
+### 1. Clone the repository:
    
    git clone https://github.com/blexolonde/snake-game.git
   
 
-2. Install the required dependencies:
+### 2. Install the required dependencies:
 
 pip install -r requirements.txt
 
